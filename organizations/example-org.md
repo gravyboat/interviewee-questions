@@ -89,4 +89,3 @@ This is an example of what an organization might look like.
         * We use digital Kanban boards.
     * Are the same tools used throughout the company?
         * Yes.
-
