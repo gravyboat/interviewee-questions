@@ -1,6 +1,6 @@
 ## Template
 
-This is an example that your organization can use as a template.
+This is an example that your organization can use as a template. It will render correctly once answers are entered.
 
 ### Questions
 
