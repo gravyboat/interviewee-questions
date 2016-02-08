@@ -1,6 +1,6 @@
-## Interviewee Questions
+## Template
 
-Assorted questions to answer about organization policies.
+This is an example that your organization can use as a template.
 
 ### Questions
 
@@ -51,16 +51,4 @@ Assorted questions to answer about organization policies.
 * Company workflow and processes
     * What sort of tools does your team use to track the progress of projects?
     * Are the same tools used throughout the company?
-
-* About the company
-    * What financial information does the company share internally?
-        * Executive compensation
-        * Employee compensation
-        * Gross Revenue/Profit
-    * Who is the company's largest competitor?
-    * What is the company strategy to
-        * Increase brand awareness
-        * Increase revenue
-        * Expand into other markets
-        * Decrease operational expenditure
 
