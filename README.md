@@ -2,6 +2,9 @@
 
 Assorted questions to answer about organization policies.
 
+This repo consists of a large number of questions that prospective employees can pose to companies.
+It also includes a directory of companies who have already filled out this information.
+
 ### Questions
 
 * Benefits
