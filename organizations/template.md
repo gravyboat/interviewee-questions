@@ -85,3 +85,35 @@ This is an example that your organization can use as a template. It will render 
         *
     * Are the same tools used throughout the company?
         *
+
+* Tech questions
+    * Walk me through the deployment process for the main app. If I am a dev and committed some code to the repo how does that end up in front of a user? (Looking for CI/CD, automated testing, deployment automation, handoff procedure, etc.)
+        *
+    * What does the developer environment look like?
+        *
+    * Is there a test environment?
+        *
+    * What is the patching and software update process like?
+        *
+        * What does an emergency security patch deployment look like? (shell shocker for example)
+            *
+    * Are there any plans to rewrite the app (in whole or portion) to another programming language? Why or why not?
+        *
+    * Walk me through a major outage. Was there any warning? How did you find out about it (monitoring or customers)? How long did it take to find root cause and fix? (check for do they have centralized logging, what does their alerting and telemetry look like, etc). Post-mortem / customer AAR?
+        *
+    * What is your expectation for the amount of time it’s going to take for someone to get up to speed in this role?
+        *
+    * What other technology is used in the infra?
+        *
+    * How many incidents occur per week?
+        *
+    * What does the on-call rotation look like?
+        *
+    * Are there any plans for developers to be in the on-call rotation if they are not currently? If no why not?
+        *
+    * How is the backlog (if there is one) prioritized? New features vs bugs/issues.What % of time is spent developing new features?
+        *
+    * What does the roadmap look like?
+        *
+    * What are the biggest operational pain points?
+        *

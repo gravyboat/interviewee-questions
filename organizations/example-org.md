@@ -89,3 +89,35 @@ This is an example of what an organization might look like.
         * We use digital Kanban boards.
     * Are the same tools used throughout the company?
         * Yes.
+
+* Tech questions
+    * Walk me through the deployment process for the main app. If I am a dev and committed some code to the repo how does that end up in front of a user? (Looking for CI/CD, automated testing, deployment automation, handoff procedure, etc.)
+        * The deployment process is fully automated, whenever a push occurs the code is tested, if it succeeds it is pushed to test for preview. Once this is confirmed accurate a merge is required from test to prod, which is then automatically deployed via containers.
+    * What does the developer environment look like?
+        * The developer environment uses Vagrant and Docker containers to create identical environments between users.
+    * Is there a test environment?
+        * Yes, all pushes are automatically moved into the test environment, to avoid collision each push creates a unique container which is later destroyed.
+    * What is the patching and software update process like?
+        * Software updates are automated in most cases, however we are currently locked to Ruby 2.0, and Python 2.7.
+        * What does an emergency security patch deployment look like? (shell shocker for example)
+            * Configuration management is used to push an update to all affected systems.
+    * Are there any plans to rewrite the app (in whole or portion) to another programming language? Why or why not?
+        * Not at this time, we are happy with the app and wish to simply upgrade to the latest version of the current language.
+    * Walk me through a major outage. Was there any warning? How did you find out about it (monitoring or customers)? How long did it take to find root cause and fix? (check for do they have centralized logging, what does their alerting and telemetry look like, etc). Post-mortem / customer AAR?
+        * A major outage would first notify us via external services which are pinging the nodes, downed servers would be identified via our logging system which would also notice a large number of errors. Once we have identified the issue a blameless post-mortem is conducted, and the issue is thoroughly documented, and a project added to the backlog to ensure this issue does not happen again.
+    * What is your expectation for the amount of time it’s going to take for someone to get up to speed in this role?
+        * We expect familiarity within 6 weeks, and real code contributions within 12 weeks.
+    * What other technology is used in the infra?
+        * Blah, blah, blah, and blah
+    * How many incidents occur per week?
+        * Current reporting shows 3 incidents per week, primarily during the hours of 7-11 AM PST due to a cron that occurs at this point. There were also 6 incidents between 10 PM and 4 AM PST in the last month.
+    * What does the on-call rotation look like?
+        * Currently the on-call rotation consists of all team members as our DevOps team is under 6 people. Rotations are a week in length, resulting in one week of on-call per 7 weeks, in addition we use time zone shifting so early mornings and evenings are covered by our remote employees.
+    * Are there any plans for developers to be in the on-call rotation if they are not currently? If no why not?
+        * Yes our developers are currently in the rotation due to the team size.
+    * How is the backlog (if there is one) prioritized? New features vs bugs/issues.What % of time is spent developing new features?
+        * Our backlog prioritizes bug fixes over new features, approximately 60% of the time is spent creating new features. When a bug is encountered (especially once which negatively impacts the on-call team) it is prioritized for a fix.
+    * What does the roadmap look like?
+        * Our current roadmap can be seen here: (Link to roadmap)
+    * What are the biggest operational pain points?
+        * Currently our largest operational pain points resolve around large volumes of traffic around certain times of day due to a lack of auto-scaling. We currently have a project to work on this.
