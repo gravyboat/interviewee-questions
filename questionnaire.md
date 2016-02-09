@@ -1,7 +1,59 @@
-# Interviewee questionnaire
+# Interviewee Questionnaire
 
 This is a questionnaire that covers a wide range of topics an interviewee would
 like to understand about a company before moving forward in the hiring process.
+
+# Table of Contents
+
+  * [Questions](#questions)
+    * [1. Technical](#1-technical)
+      * [1.1 Describe the deployment process for the primary application](#11-describe-the-deployment-process-for-the-primary-application)
+        * [1.1 Answer](#11-answer)
+      * [1.2 Describe the process for deploying security patches / OS updates](#12-describe-the-process-for-deploying-security-patches--os-updates)
+        * [1.2 Answer](#12-answer)
+      * [1.3 Describe the development environment](#13-describe-the-development-environment)
+        * [1.3 Answer](#13-answer)
+      * [1.4 Describe the test environment](#14-describe-the-test-environment)
+        * [1.4 Answer](#14-answer)
+      * [1.5 Roughly what percentage of code is in what language?](#15-roughly-what-percentage-of-code-is-in-what-language)
+        * [1.5 Answer](#15-answer)
+      * [1.6 Any near-term future plans to dramatically change programming languages?](#16-any-near-term-future-plans-to-dramatically-change-programming-languages)
+        * [1.6 Answer](#16-answer)
+      * [1.7 Describe an outage, the RCA and AAR, and any followup.](#17-describe-an-outage-the-rca-and-aar-and-any-followup)
+        * [1.7 Answer](#17-answer)
+      * [1.8 On-call and number of incidents / outages](#18-on-call-and-number-of-incidents--outages)
+        * [1.8 Answer](#18-answer)
+      * [1.9 Operational pain points](#19-operational-pain-points)
+        * [1.9 Answer](#19-answer)
+      * [1.10 Roadmap](#110-roadmap)
+        * [1.10 Answer](#110-answer)
+    * [2. Managerial](#2-managerial)
+      * [2.1 Employee productivity](#21-employee-productivity)
+        * [2.1 Answer](#21-answer)
+      * [2.2 Employee reviews](#22-employee-reviews)
+        * [2.2 Answer](#22-answer)
+      * [2.3 Office hours](#23-office-hours)
+        * [2.3 Answer](#23-answer)
+    * [3. Employee Compensation / Quality of Life / Benefits](#3-employee-compensation--quality-of-life--benefits)
+      * [3.1 Salary](#31-salary)
+        * [3.1 Answer](#31-answer)
+      * [3.2 Equity](#32-equity)
+        * [3.2 Answer](#32-answer)
+      * [3.3 Healthcare](#33-healthcare)
+        * [3.3 Answer](#33-answer)
+      * [3.4 Retirement fund](#34-retirement-fund)
+        * [3.4 Answer](#34-answer)
+      * [3.5 Employee space](#35-employee-space)
+        * [3.5 Answer](#35-answer)
+      * [3.6 Vacation policy](#36-vacation-policy)
+        * [3.6 Answer](#36-answer)
+    * [4. About the company](#4-about-the-company)
+      * [4.1 Transparency](#41-transparency)
+        * [4.1 Answer](#41-answer)
+      * [4.2 Competition](#42-competition)
+        * [4.2 Answer](#42-answer)
+      * [4.3 Strategy](#43-strategy)
+        * [4.3 Answer](#43-answer)
 
 # Questions
 
