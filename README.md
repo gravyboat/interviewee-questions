@@ -22,6 +22,14 @@ that it's useful. Our target audience is twofold:
 # The questions
 [questionnaire.md](questionnaire.md)
 
+PRs to add questions are welcome!
+
+If you're a company answering these, we highly encourage you to make your
+answers public! Host the filled out questionnaire on your own public github
+account, or set up a PR and we'll host your answers here so you can show off how
+awesome your company is comparatively. If you have some questions you would love
+to see asked we also like PRs to expand our questions as well!
+
 # Thanks
 * To [GitHub](https://github.com) for hosting (of course!)
 * To [Joel Spolsky](https://twitter.com/Spolsky) for [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)
