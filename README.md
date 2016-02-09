@@ -34,7 +34,7 @@ to see asked we also like PRs to expand our questions as well!
 * To [GitHub](https://github.com) for hosting (of course!)
 * To [Joel Spolsky](https://twitter.com/Spolsky) for [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)
 * To [ekalinin](https://github.com/ekalinin) for [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
-* The many others that publically share stuff so we can all improve as a community
+* The many others that publicly share stuff so we can all improve as a community
   * Etsy
   * Netflix
   * Valve
