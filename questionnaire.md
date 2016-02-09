@@ -1,7 +1,10 @@
 # Interviewee Questionnaire
 
-This is a questionnaire that covers a wide range of topics an interviewee would
-like to understand about a company before moving forward in the hiring process.
+This questionnaire covers a wide range of topics an interviewee should
+understand about a company before moving forward in the hiring process. While
+the answers to some of these questions fall under NDA, any answers a company can
+make public should be made public to lessen the need to answer them repeatedly
+on a per-candidate basis.
 
 # Table of Contents
 
