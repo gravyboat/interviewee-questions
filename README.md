@@ -1,3 +1,32 @@
-Welcome! This repo seeks to be an ever-improving starting point for interviewees when asked the question 'Do you have any questions for us?'. Our target audience is anyone in a technical role as related to software development. The creators, [gravyboat](https://github.com/gravyboat) and [preston4tw](https://github.com/Preston4tw) are SREs, but these questions are largely applicable to all aspects of software development. Companies are encouraged to reduce the friction in their hiring process by pro-actively answering the questions here in and making the answers publically available. Fork us and host your answers on your own public repo, or throw us a merge request! Think of this as an expanded version of [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html).
+Welcome! This repo seeks to be an ever-improving starting point for technical
+interviewees when asked the question 'Do you have any questions for us?'. We
+have a ton! We ([gravyboat](https://github.com/gravyboat) and
+[preston4tw](https://github.com/Preston4tw)) are SREs in search of awesome
+places to work. This questionnaire is our personal aid in filtering companies we
+interview with to determine how awesome they are and whether or not we want to
+work there. This questionnaire was created collaboratively in response to some
+less than great past work experience. We think most of the questions are
+applicable to any technical interviewee and share it with the public in the hope
+that it's useful. Our target audience is twofold:
 
-These questions are largely sourced from past work experience greivances of the committers as well as public suggestions from others. See [questionnaire.md](questionnaire.md) for the full list of questions.
+1. Anyone in a technical role as related to software development.
+2. Companies that want to hire IT people. Not only should you expect these
+   questions from candidates and be prepared for them, the extent to which you
+   can answer these questions in an awesome fashion is a competitive advantage
+   that will draw high quality candidates to your company looking for work.
+   Everyone is hiring, and there aren't a lot of awesome techies to go
+   around. The [Netflix](http://www.slideshare.net/reed2001/culture-1798664)
+   and [Valve](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+   culture docs are required reading.
+
+# The questions
+[questionnaire.md](questionnaire.md)
+
+# Thanks
+* To [GitHub](https://github.com) for hosting (of course!)
+* To [Joel Spolsky](https://twitter.com/Spolsky) for [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)
+* To [ekalinin](https://github.com/ekalinin) for [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
+* The many others that publically share stuff so we can all improve as a community
+  * Etsy
+  * Netflix
+  * Valve
