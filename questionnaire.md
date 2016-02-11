@@ -53,10 +53,12 @@ repeatedly on a per-candidate basis.
     * [4. About the company](#4-about-the-company)
       * [4.1 Transparency](#41-transparency)
         * [4.1 Answer](#41-answer)
-      * [4.2 Competition](#42-competition)
+      * [4.2 Funding](#42-funding)
         * [4.2 Answer](#42-answer)
-      * [4.3 Strategy](#43-strategy)
+      * [4.3 Competition](#43-competition)
         * [4.3 Answer](#43-answer)
+      * [4.4 Strategy](#44-strategy)
+        * [4.4 Answer](#44-answer)
 
 # Questions
 
