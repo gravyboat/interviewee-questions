@@ -257,16 +257,23 @@ compensation?
 **Fill me out**
 
 
-### 4.2 Competition
-What companies are the main competition for the market space you're in? Why work
-for you instead of them?
+### 4.2 Funding
+At the current burn rate how long until the company must secure additional
+funding?
 
 #### 4.2 Answer
 **Fill me out**
 
-
-### 4.3 Strategy
-Related to 4.2, what is the company strategy to succeed?
+### 4.3 Competition
+What companies are the main competition for the market space you're in? Why work
+for you instead of them?
 
 #### 4.3 Answer
+**Fill me out**
+
+
+### 4.4 Strategy
+Related to 4.3, what is the company strategy to succeed?
+
+#### 4.4 Answer
 **Fill me out**
