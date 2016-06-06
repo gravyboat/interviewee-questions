@@ -52,6 +52,8 @@ repeatedly on a per-candidate basis.
         * [3.6 Answer](#36-answer)
       * [3.7 Expense policy](#37-expense-policy)
         * [3.7 Answer](#37-answer)
+      * [3.8 Questions asked](#38-questions-asked)
+        * [3.8 Answer](#38-answer)
     * [4. About the company](#4-about-the-company)
       * [4.1 Transparency](#41-transparency)
         * [4.1 Answer](#41-answer)
@@ -258,6 +260,12 @@ I generally spend filling out that single-item expense report?
 #### 3.7 Answer
 **Fill me out**
 
+#### 3.8 Questions Asked
+Are there any questions you wish you had asked prior to accepting your job
+offer?
+
+#### 3.8
+**Fill me out**
 
 ## 4. About the company
 ### 4.1 Transparency
