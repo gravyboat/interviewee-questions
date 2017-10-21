@@ -53,7 +53,9 @@ repeatedly on a per-candidate basis.
       * [3.7 Expense policy](#37-expense-policy)
         * [3.7 Answer](#37-answer)
       * [3.8 Questions asked](#38-questions-asked)
-        * [3.8 Answer](#38-answer)
+        * [3.8 Answer](#39-answer)
+      * [3.9 Rewarding tenure](#39-rewarding-tenure)
+        * [3.9 Answer](#39-answer)
     * [4. About the company](#4-about-the-company)
       * [4.1 Transparency](#41-transparency)
         * [4.1 Answer](#41-answer)
@@ -202,7 +204,7 @@ Does the company allow telecommuting? How frequently? Are there core hours?
 **Fill me out**
 
 
-## 3. Employee Compensation / Quality of Life / Benefits
+## 3. Employee compensation / Quality of life / Benefits
 
 ### 3.1 Salary
 Do employees get regularly occurring raises? What criteria is used to determine
@@ -252,7 +254,7 @@ Describe the vacation policy: unlimited, X hours, X mandatory hours?
 #### 3.6 Answer
 **Fill me out**
 
-#### 3.7 Expense Policy
+#### 3.7 Expense policy
 Let's pretend I want to purchase a $50 book. What do I need to do do in order
 to get that approved? What does the expense process look like? How long will
 I generally spend filling out that single-item expense report?
@@ -260,11 +262,17 @@ I generally spend filling out that single-item expense report?
 #### 3.7 Answer
 **Fill me out**
 
-#### 3.8 Questions Asked
+#### 3.8 Questions asked
 Are there any questions you wish you had asked prior to accepting your job
 offer?
 
 #### 3.8
+**Fill me out**
+
+#### 3.9 Rewarding tenure
+How do you reward tenure?
+
+#### 3.9
 **Fill me out**
 
 ## 4. About the company
