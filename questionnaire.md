@@ -254,7 +254,7 @@ Describe the vacation policy: unlimited, X hours, X mandatory hours?
 #### 3.6 Answer
 **Fill me out**
 
-#### 3.7 Expense policy
+### 3.7 Expense policy
 Let's pretend I want to purchase a $50 book. What do I need to do do in order
 to get that approved? What does the expense process look like? How long will
 I generally spend filling out that single-item expense report?
@@ -262,14 +262,14 @@ I generally spend filling out that single-item expense report?
 #### 3.7 Answer
 **Fill me out**
 
-#### 3.8 Questions asked
+### 3.8 Questions asked
 Are there any questions you wish you had asked prior to accepting your job
 offer?
 
 #### 3.8
 **Fill me out**
 
-#### 3.9 Rewarding tenure
+### 3.9 Rewarding tenure
 How do you reward tenure?
 
 #### 3.9
