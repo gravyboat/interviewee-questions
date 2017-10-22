@@ -33,6 +33,7 @@ to see asked we also like PRs to expand our questions as well!
 # Thanks
 * To [GitHub](https://github.com) for hosting (of course!)
 * To [Joel Spolsky](https://twitter.com/Spolsky) for [The Joel Test](http://www.joelonsoftware.com/articles/fog0000000043.html)
+* To [blobschnieder](https://www.reddit.com/user/blobschnieder) for [notes on tenure](https://www.reddit.com/r/personalfinance/comments/6no7nu/forbes_employees_who_stay_at_a_company_for_more/dkb7y3l/)
 * To [ekalinin](https://github.com/ekalinin) for [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc)
 * The many others that publicly share stuff so we can all improve as a community
   * Etsy
