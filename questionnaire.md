@@ -204,7 +204,7 @@ Does the company allow telecommuting? How frequently? Are there core hours?
 **Fill me out**
 
 
-## 3. Employee compensation / Quality of life / Benefits
+## 3. Employee Compensation / Quality of Life / Benefits
 
 ### 3.1 Salary
 Do employees get regularly occurring raises? What criteria is used to determine
@@ -275,7 +275,7 @@ How do you reward tenure?
 #### 3.9
 **Fill me out**
 
-## 4. About the company
+## 4. About the Company
 ### 4.1 Transparency
 How transparent is the company internally? Are financials freely shared with
 respect (but not limited) to: revenue, profit, employee and executive
